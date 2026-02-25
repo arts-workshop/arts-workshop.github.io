@@ -33,11 +33,5 @@ L’atelier sur l’Analyse et la Recherche de Textes Scientifiques (ARTS) se ve
 - Jeux de données composés des textes scientifiques
 - Bibliométrie, scientométrie
 
-## Comité d'organisation
-
-- Léane Jourdan (LS2N, CNRS)
-- Florian Boudin (LS2N, Inria)
-- Oumaima El Khettari (LS2N, Nantes Université)
-- Maël Houbre (AMIAD-Ministère des Armées)
 
 
