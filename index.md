@@ -1,10 +1,10 @@
 ---
-title: Atelier ARTS
-feature_text: |
-  ## Atelier sur l'Analyse et la Recherche de Textes Scientifiques
+title: ARTS
 feature_image: "https://cdn.pixabay.com/photo/2022/05/20/21/19/city-7210267_1280.jpg"
 excerpt: ""
 ---
+
+# Atelier sur l'Analyse et la Recherche de Textes Scientifiques
 
 La deuxième édition de ARTS aura lieu lors de la conférence CORIA-TALN 2026.
 
