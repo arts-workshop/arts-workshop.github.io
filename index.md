@@ -19,6 +19,11 @@ Cette augmentation du volume peut également être attribuée à l’adoption ma
 L’envergure de cette utilisation des outils de NLP dans le domaine scientifique est reflétée par une augmentation du nombre d’ateliers comme celui-ci à l’internationale (NSLP, SDP, WASP) et le fait que certaines conférences ont commencé à encadrer l’usage des LLM dans le processus de soumission et de relecture (e.g ICLR et l’ARR) ou les intègrent dans ce processus (AAAI 2026).
 
 
+<p align="center">
+<img src="/assets/banner.svg" width="200">
+</p>
+
+
 L’atelier sur l’Analyse et la Recherche de Textes Scientifiques (ARTS) se veut un lieu de rencontre et d’échange pour les chercheurs en Recherche d’Information (RI) et en Traitement Automatique des Langues (TAL) qui s’intéressent aux textes scientifiques. Nous sollicitons des communications (résumé étendus et articles jusqu’à 8 pages) pouvant porter sur les thèmes, incluant, de façon non limitative :
 - Recherche et recommandation d’articles scientifiques
 - Extraction d’informations dans les textes scientifiques, tableaux, figures, bibliographie
@@ -33,8 +38,6 @@ L’atelier sur l’Analyse et la Recherche de Textes Scientifiques (ARTS) se ve
 - Jeux de données composés des textes scientifiques
 - Bibliométrie, scientométrie
 
-
-<img src="/assets/banner.svg" width="300">
 
 
 

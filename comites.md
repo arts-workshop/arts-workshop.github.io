@@ -12,6 +12,10 @@ excerpt: "Comités"
 - Maël Houbre (AMIAD-Ministère des Armées)
 
 
+<p align="center">
+<img src="/assets/banner.svg" width="200">
+</p>
+
 ## Comité de programme
 
 *à venir*
