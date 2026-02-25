@@ -2,7 +2,6 @@
 title: Comités
 layout: page
 excerpt: "Comités"
-aside: true
 ---
 
 ## Comité d'organisation
