@@ -34,4 +34,9 @@ L’atelier sur l’Analyse et la Recherche de Textes Scientifiques (ARTS) se ve
 - Bibliométrie, scientométrie
 
 
+<img src="/assets/banner.svg" width="300">
+
+
+
+
 
