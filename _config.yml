@@ -123,16 +123,16 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Acceuil
   url: /
-#- title: Dates importantes
-#  url: /elements/
+- title: Dates importantes
+  url: /dates/
 #- title: Soumission
 #  url: /categories/
 #- title: Conférence invitée
 #  url: /blog/
 #- title: Articles acceptés
 #  url: /search/
-#- title: Committees
-#  url: /committees/
+- title: Comités
+  url: /comites/
 - title: CORIA-TALN 2026
   url: https://coria-taln-2026.ls2n.fr/
 
