@@ -125,8 +125,8 @@ navigation_header:
   url: /
 - title: Dates importantes
   url: /dates/
-#- title: Soumission
-#  url: /categories/
+- title: Soumission
+  url: /soumission/
 #- title: Conférence invitée
 #  url: /blog/
 #- title: Articles acceptés
