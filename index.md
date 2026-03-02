@@ -6,7 +6,7 @@ feature_image: "/assets/banniere.jpg"
 excerpt: ""
 ---
 
-La deuxième édition de ARTS aura lieu lors de la conférence CORIA-TALN 2026.
+La deuxième édition de ARTS aura lieu lors de la conférence CORIA-TALN 2026 à Nantes.
 
 ## Présentation de l'atelier
 
