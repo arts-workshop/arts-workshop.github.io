@@ -127,10 +127,10 @@ navigation_header:
   url: /dates/
 - title: Soumission
   url: /soumission/
-#- title: Conférence invitée
-#  url: /blog/
-#- title: Articles acceptés
-#  url: /search/
+- title: Conférence invitée
+  url: /invitee/
+- title: Articles acceptés
+  url: /papers/
 - title: Comités
   url: /comites/
 - title: CORIA-TALN 2026
