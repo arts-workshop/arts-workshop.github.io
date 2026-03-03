@@ -139,7 +139,7 @@ navigation_header:
   url: https://coria-taln-2026.ls2n.fr/
 
 navigation_footer:
-- title: Contact
+- title: ✉️ Contact
   url: mailto:arts-atelier@googlegroups.com
 
 #social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
