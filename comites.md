@@ -26,4 +26,5 @@ excerpt: "Comités"
 - Thierry Hamon (LISN, Université Sorbonne Paris Nord)
 - François Yvon (LISN, CNRS)
 - Mathieu Constant (ATILF, Université de Lorraine)
+- Rachel Bawden (Inria)
 
