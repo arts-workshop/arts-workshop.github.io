@@ -44,7 +44,8 @@ L’atelier sur l’Analyse et la Recherche de Textes Scientifiques (ARTS) se ve
 <img src="/assets/banner.svg" width="200">
 </p>
 
-Logo de l'atelier: [Télécharger](/assets/logos_arts.zip)
+Logo de l'atelier: [Télécharger ici](/assets/logos_arts.svg)
+
 Image bannière: [https://pixabay.com/fr/photos/ville-nantais-paysage-urbain-7210267/](https://pixabay.com/fr/photos/ville-nantais-paysage-urbain-7210267/)
 
 
