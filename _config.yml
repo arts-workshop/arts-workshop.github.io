@@ -129,8 +129,8 @@ navigation_header:
   url: /soumission/
 #- title: Programme
 #  url: /programme/
-#- title: Invitée
-#  url: /invitee/
+- title: Invitée
+  url: /invitee/
 #- title: Articles acceptés
 #  url: /papers/
 - title: Comités
