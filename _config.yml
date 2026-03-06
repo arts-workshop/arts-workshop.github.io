@@ -135,8 +135,8 @@ navigation_header:
 #  url: /papers/
 - title: Comités
   url: /comites/
-- title: CORIA-TALN 2026
-  url: https://coria-taln-2026.ls2n.fr/
+#- title: CORIA-TALN 2026
+#  url: https://coria-taln-2026.ls2n.fr/
 
 navigation_footer:
 - title: ✉️ Contact
