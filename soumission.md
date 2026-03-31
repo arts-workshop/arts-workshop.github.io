@@ -29,6 +29,7 @@ L’atelier sur l’Analyse et la Recherche de Textes Scientifiques (ARTS) se ve
 -   Etat de l’art
 -   Prise de position
 -   Résultats négatifs
+-   Démos
 -   Description d'un projet de recherche
 -   Traduction d’un article récemment accepté (ou en cours de soumission) dans une conférence ou un atelier international
 
