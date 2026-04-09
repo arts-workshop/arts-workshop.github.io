@@ -36,7 +36,7 @@ L’atelier sur l’Analyse et la Recherche de Textes Scientifiques (ARTS) se ve
 
 **Format**
 
-Les articles seront rédigés en français pour les francophones, en anglais pour ceux qui ne maîtrisent pas le français. Ils devront suivre le format libre de CORIA-TALN 2026 (6 à 10 pages) <span style="color:red"> *NEW* sauf pour les papiers *démos* et *projets de recherche* qui débutent à une page et les papiers accéptés en conférence/atelier internationals qui peuvent donner lieu à un résumé en français de 1 à 2 pages.</span>
+Les articles seront rédigés en français pour les francophones, en anglais pour ceux qui ne maîtrisent pas le français. Ils devront suivre le format libre de CORIA-TALN 2026 (6 à 10 pages) <span style="color:red"> *NEW* sauf pour les papiers *démos* et *projets de recherche* qui débutent à une page et les papiers accéptés en conférence/atelier internationaux qui peuvent donner lieu à un résumé en français de 1 à 2 pages.</span>
   
 **Feuille de style :**  
 [https://coria-taln-2026.ls2n.fr/soumission/](https://coria-taln-2026.ls2n.fr/soumission/)
