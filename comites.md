@@ -18,13 +18,14 @@ excerpt: "Comités"
 
 ## Comité de programme
 
-- Florian Boudin (LS2N, Inria)
-- Richard Dufour (LS2N, Nantes Université)
 - Sabine Barreaux (INIST, CNRS)
-- Natalia Grabar (STL, Université de Lille)
-- Cyril Labbé (LIG, Université Grenoble Alpes)
-- Thierry Hamon (LISN, Université Sorbonne Paris Nord)
-- François Yvon (LISN, CNRS)
-- Mathieu Constant (ATILF, Université de Lorraine)
 - Rachel Bawden (Inria)
+- Florian Boudin (LS2N, Inria)
+- Mathieu Constant (ATILF, Université de Lorraine)
+- Richard Dufour (LS2N, Nantes Université)
+- Liana Ermakova (HCTI, Université de Bretagne Occidentale)
+- Natalia Grabar (STL, Université de Lille)
+- Thierry Hamon (LISN, Université Sorbonne Paris Nord)
+- Cyril Labbé (LIG, Université Grenoble Alpes)
+- François Yvon (LISN, CNRS)
 
