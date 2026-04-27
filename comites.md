@@ -28,4 +28,5 @@ excerpt: "Comités"
 - Thierry Hamon (LISN, Université Sorbonne Paris Nord)
 - Cyril Labbé (LIG, Université Grenoble Alpes)
 - François Yvon (LISN, CNRS)
+- Julien Aubert-Béduchaud (LS2N, Nantes Université)
 
