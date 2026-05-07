@@ -5,10 +5,7 @@ layout: page
 
 <table style="width:100%; border-collapse: collapse; text-align:left;">
   
-  <tr>
-    <th style="border:1px solid black; width:15%;">Horaire</th>
-    <th style="border:1px solid black;">Amphi H bâtiment 28</th>
-  </tr>
+**Lieu :** Amphi H bâtiment 28
 
   <tr>
     <td style="border:1px solid black;">9h</td>
