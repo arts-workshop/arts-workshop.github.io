@@ -5,7 +5,7 @@ layout: page
 
 <table style="width:100%; border-collapse: collapse; text-align:left;">
   
-**Lieu :** Amphi H bâtiment 28
+L'atelier aura lieu dans l'amphi H du bâtiment 28.
 
   <tr>
     <td style="border:1px solid black;">9h</td>
