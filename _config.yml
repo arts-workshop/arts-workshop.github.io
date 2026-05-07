@@ -127,8 +127,8 @@ navigation_header:
   url: /dates/
 - title: Soumission
   url: /soumission/
-#- title: Programme
-#  url: /programme/
+- title: Programme
+  url: /programme/
 - title: Invitée
   url: /invitee/
 #- title: Articles acceptés
