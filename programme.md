@@ -76,7 +76,7 @@ L'atelier aura lieu dans l'amphi H du bâtiment 28.
   </tr>
 
   <tr>
-    <td style="border:1px solid black;"></td>
+    <td style="border:1px solid black;">11h30</td>
     <td style="border:1px solid black;">
       Evaluation of Methods for Assigning Standardized Astronomy Keywords to Heliophysics Papers' Abstracts
       <em>Liza Fretel, Corentin Louis, Baptiste Cecconi</em>
