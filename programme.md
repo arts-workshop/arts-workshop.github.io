@@ -14,7 +14,7 @@ L'atelier aura lieu dans l'amphi H du bâtiment 28.
 
   <tr>
     <td style="border:1px solid black;">9h15</td>
-    <td style="border:1px solid black;">Conférence invitée</td>
+    <td style="border:1px solid black;">Conférence invitée : <em>Iana Atanassova</em> Cartographier l’incertitude dans les articles scientifiques : marqueurs linguistiques et robustesse des modèles </td>
   </tr>
 
   <tr>
