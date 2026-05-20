@@ -8,8 +8,8 @@ layout: page
 L'atelier aura lieu dans l'amphi H du bâtiment 28.
 
   <tr>
-    <td style="border:1px solid black;">9h</td>
-    <td style="border:1px solid black;">Ouverture de l'atelier</td>
+    <td style="border:1px solid black; background:#f2f2f2;">9h</td>
+    <td style="border:1px solid black; background:#f2f2f2;">Ouverture de l'atelier</td>
   </tr>
 
   <tr>
@@ -165,8 +165,8 @@ L'atelier aura lieu dans l'amphi H du bâtiment 28.
 
 
   <tr>
-    <td style="border:1px solid black;">12h30</td>
-    <td style="border:1px solid black;"><em>Fin de l'atelier</em></td>
+    <td style="border:1px solid black; background:#f2f2f2;">12h30</td>
+    <td style="border:1px solid black; background:#f2f2f2;"><em>Fin de l'atelier</em></td>
   </tr>
 
 </table>
